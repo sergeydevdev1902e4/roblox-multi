@@ -79,4 +79,4 @@ roblox-multi kill
 
 Profiles are stored in plain JSON at `~/.config/roblox-multi/profiles.json` (or `%APPDATA%\roblox-multi\profiles.json` on Windows).
 
-<!-- last-sync: 2026-09-12 -->
+<!-- last-sync: 2026-09-13 -->
